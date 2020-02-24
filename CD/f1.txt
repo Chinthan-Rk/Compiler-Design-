@@ -1,0 +1,3 @@
+hey printf how are you??
+hello scanf..I'm good
+how are you scanff??

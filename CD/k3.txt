@@ -1,0 +1,12 @@
+
+int main()
+{
+int a,b; 
+int c;
+c=a+b;
+
+printf("output");
+
+
+return 0;
+}
