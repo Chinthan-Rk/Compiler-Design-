@@ -1,0 +1,7 @@
+pritnf("enter")
+readf("chinthna")
+writef("prathiksha")
+scanas("wo")
+readf("");
+chinthanwritef
+

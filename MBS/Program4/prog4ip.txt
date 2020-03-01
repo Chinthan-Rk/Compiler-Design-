@@ -1,0 +1,9 @@
+int main()
+{
+//comment 1
+printf("Ring/*INEOJANG*/");
+/*
+printf("");
+*/
+return 0;
+

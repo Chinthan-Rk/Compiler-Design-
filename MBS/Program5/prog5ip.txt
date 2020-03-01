@@ -1,0 +1,7 @@
+pritnf("enter")
+scanf("chinthna")
+printf("prathiksha")
+scanas("wo")
+readf("");
+chinthanprintf
+
