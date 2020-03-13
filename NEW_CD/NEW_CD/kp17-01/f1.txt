@@ -1,0 +1,10 @@
+//This is a single line comment 
+printf("Hello")
+/* This is a comment line */
+printf("Welcome ")
+to udupi
+/* This 
+is a 
+multiple line
+comment*/
+Done

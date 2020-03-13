@@ -1,0 +1,15 @@
+//Program to find sum
+int main()
+{
+int a,b; /*Declaration of 2 variables */
+int c;
+c=a+b;
+/*
+I'm good lishel 
+How are you*/
+printf("output");
+/*hello 
+hi*/
+//End of program
+return 0;
+}
